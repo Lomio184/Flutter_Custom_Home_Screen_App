@@ -1,6 +1,6 @@
 # Flutter Login UI - O'Gua Project
 
-![Introduction](/Introduce.jpg)
+![Introduction](/introduce.jpg)
 
 ## I uploaded on youtube!! Thanks to Watch
 
